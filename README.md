@@ -4,6 +4,8 @@
 
 다른 친구들의 목표를 보고 응원하는 댓글도 남길 수 있어요! 😍
 
+React와 Django로 만든 프로그램입니다
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
