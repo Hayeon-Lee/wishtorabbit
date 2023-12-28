@@ -8,7 +8,7 @@
 
 <b> ⭐ 화면에 스타일링을 적용하여 더욱 예뻐질 예정이에요. </b>
 
-<b> ⭐ Back-end 기술이 Firebase에서 Django로 바뀌었어요. </b>
+<b> ⭐ Back-end 기술이 Firebase에서 Spring Boot로 바뀌었어요. </b>
 
 <b> ⭐ 배포를 하여 친구에게 링크를 공유할 수 있게 만들 예정이에요. </b>
 
